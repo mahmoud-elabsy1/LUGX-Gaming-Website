@@ -1,5 +1,7 @@
 # 🎮 LUGX Gaming - Landing Page Implementation
 
+![LUGX Project Preview](preview.png)
+
 A fully responsive gaming landing page built from scratch using **HTML5** and **CSS3**.
 This project represents my first step towards becoming a **Backend Developer**, ensuring I have a solid understanding of the frontend structure before mastering server-side logic.
 
